@@ -93,22 +93,13 @@ body.dark {
     background-color: #2226ff;
  }
 
- .dark .logo-ra {
+.dark .logo-ra {
     color: #E0E0E0;
- }
-
- dark .logo-mdajs {
-    color: #2226ff;
  }
 
 .dark .header__nav {
     background-color: #4BCAFF;
  }
-
- /* .dark .header__nav-items:hover {
-     background-color: #333;
- } */
-
 
 /* Main */
 
