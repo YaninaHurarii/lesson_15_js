@@ -25,3 +25,6 @@ toggle.addEventListener("mouseup", () => {
 
   localStorage.setItem("theme", darkTheme ? "dark" : "light");
 });
+
+console.log(window.localStorage);
+console.log(window.sessionStorage);
